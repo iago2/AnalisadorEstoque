@@ -1,0 +1,10 @@
+﻿PRODUTOS;;;;
+ID;PRODUTO;CATEGORIA;PREÇO;QUANTIDADE
+1;MONITOR;Informatica;899,9;3
+2;MOUSE;Informatica;59,9;15
+3;TECLADO;Informatica;89,9;8
+4;CAMISETA;Vestuario;49,9;20
+5;CALÇA;Vestuario;119,9;4
+6;TÊNIS;Vestuario;219,9;2
+7;HEADSET;Informatica;149,9;6
+8;JAQUETA;Vestuario;199,9;3
